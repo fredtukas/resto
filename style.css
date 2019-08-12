@@ -1,0 +1,83 @@
+body{
+    background-color: darkseagreen;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+
+h5{
+    color: crimson;
+    text-align: center;
+}
+
+hr{
+    border: 5px solid crimson;
+    border-radius: 5px;
+    width: 10%;
+}
+
+p{
+    text-align: center;
+}
+
+.container{
+    background-color: white;
+}
+
+.bois{
+    background-image: url(img/1.jpg);
+}
+
+.cerf{
+   display: block;
+   margin: auto;
+   margin-bottom: 100px;
+   margin-top: 50px;
+}
+
+.eggs{
+    margin-bottom: 100px;
+    width: 1200px;
+}
+
+.graines{
+    width: 100px;
+    height: 100px;
+     display: block;
+   margin: auto;
+}
+
+.asperge{
+    width: 745px;
+}
+
+.soap{
+    width: 500px;
+}
+
+.moule{
+    width: 745px;
+}
+
+a{
+    color:black;
+}
+
+.foot{
+    margin-left:80px;
+}
+
+.soir{
+    margin-left: 70px;
+}
+
+.bas{
+    text-align: left;
+    margin-left: 50px;
+}
